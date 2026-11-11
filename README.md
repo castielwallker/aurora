@@ -26,11 +26,7 @@
 
 <div align="center">
 
-| Menu Principal | ESP / Visual | Unsafe |
-|:-:|:-:|:-:|
-| <img src="https://i.imgur.com/49Uet4M.png" width="260"/> | <img src="https://i.imgur.com/49Uet4M.png" width="260"/> | <img src="https://i.imgur.com/49Uet4M.png" width="260"/> |
-
-> 📷 *Substitua os links das imagens acima por screenshots reais do Aurora.*
+<img src="https://i.imgur.com/VfViaDv.png" alt="Aurora Preview" width="800"/>
 
 </div>
 
@@ -39,6 +35,8 @@
 ## 📌 Sobre este repositório
 
 Este repositório **NÃO contém o código-fonte nem o executável** do Aurora.
+
+Ele existe **exclusivamente** para hospedar o manifesto de atualização automática:
 
 Ele existe **exclusivamente** para hospedar o manifesto de atualização automática:
 📁 manifest/
