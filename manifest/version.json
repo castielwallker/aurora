@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/castielwallker/aurora/build/aurora.exe",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "mandatory": false,
+  "notes": "Initial release: ESP, aimbot, triggerbot, vehicle ESP, HWID spoofer, anti-trace cleanup and kernel bridge.",
+  "player_ped": "0xB7CD98",
+  "ped_pool": "0xB74490",
+  "vehicle_pool": "0xB74494",
+  "view_matrix": "0xB6FA2C",
+  "screen_w": "0xC17044",
+  "screen_h": "0xC17048"
+
+}
